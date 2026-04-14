@@ -43,7 +43,6 @@ The goal was to explore the **Python programming language** using NotebookLM as 
 
 ## 📘 Study Guide
 
-
 ### 🔹 Fundamentals
 
 - Variables  
@@ -51,13 +50,10 @@ The goal was to explore the **Python programming language** using NotebookLM as 
 - Lists and tuples  
 - Functions  
 
-<br>
-
 ### 🔹 Control Structures
 
 - Conditionals (if/else)  
 - Loops (for/while)  
-
 
 ### 🔹 OOP
 
