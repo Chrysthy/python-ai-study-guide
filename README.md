@@ -1,4 +1,4 @@
-<h1 align="center"> 📘 Miniguia de Estudos com NotebookLM: Fundamentos de Python </h1>
+<h1 align="center"> 📘 NotebookLM Study Mini Guide: Python Fundamentals </h1>
 
 <br>
 
